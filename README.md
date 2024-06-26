@@ -11,7 +11,6 @@
 
 A collection of front-end projects built using React and Tailwind CSS. Each project is organized into its own subdirectory within this repository.
 
-![Demo Preview](https://source.unsplash.com/random/1280x720)
 
 ## Table of Contents
 - [Projects](#projects)
@@ -28,6 +27,7 @@ A collection of front-end projects built using React and Tailwind CSS. Each proj
 1. [First Project](first_project)
    - Description: Minimal project built using React and Tailwind CSS..
    - Technologies: React, Tailwind CSS
+   - [Live Demo](https://yo-first-react-tailwind-project.netlify.app/)
 
 (More projects will be added here as they are developed.)
 
