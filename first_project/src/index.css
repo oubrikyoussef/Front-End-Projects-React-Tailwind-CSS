@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+  font-family: "sans-serif";
+  background-color: #000300;
+}
+section:nth-of-type(2n) {
+  background-color: #fff;
+}
